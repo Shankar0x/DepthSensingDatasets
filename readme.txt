@@ -1,1 +1,1 @@
-Hello there!
+Reduced_dataset contains images from Stereo Indoor Dataset 
